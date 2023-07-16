@@ -1,5 +1,5 @@
 # Gerador_de_Senha
- Utilizando Biblioyeca Grafica do python Tkinder para criar uma interfaces gráficas de usuário (GUI - Graphical User Interface)
+ Utilizando Biblioteca Grafica do python Tkinder para criar uma interfaces gráficas de usuário (GUI - Graphical User Interface)
 
  Gerenciador de Senha onde o usuario digitara o numero de comprimento da senha desejada,
  no qual acima de 8 mostrara a senha gerada, caso for menor que 8 ele informara a mensagem
